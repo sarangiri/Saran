@@ -1,2 +1,0 @@
-# Saran
-Computer architecture 
